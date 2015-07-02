@@ -8,7 +8,7 @@ This class allows you to easily see:
 * When a cron job last ran.
 * How long it took to run.
 * Whether it finished or not.
-* How far through the task it got.
+* How far through the task it got. How many rows were processed.
 
 * * *
 
